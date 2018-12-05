@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Solemne3</string>
+    <string name="facebook_app_id">4025211600854863</string>
+    <string name="fb_login_protocol_scheme">fb4025211600854863</string>
+</resources>
